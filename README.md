@@ -41,6 +41,9 @@ Verifier tout d'abord que tout les fichiers nécessaires sont bien téléchargé
 index.html dans le dossier templates, style.css dans le dossier static et app.py et projetAPI.pickle 
 dans le dossier principal.
 
+ATTENTION : Le fichier pickle étant trop volumineux pour être chargé sur Github, 
+            il faut le créer en éxécutant la dernière partie du Notebook
+
  - Lancer le fichier app.py depuis un éxécuteur de commande (Anaconda Prompt par exemple)
  - Aller sur l'adresse web indiquée par l'éxécuteur de commande
  - Remplir le formulaire avec les données de l'article sur lequel on veut effectuer la prédiction 
